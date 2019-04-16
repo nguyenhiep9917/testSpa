@@ -1,0 +1,140 @@
+.container-fluid {
+	padding-right: 1px !important;
+	padding-left: 1px !important;
+}
+
+.jumbotron {
+	padding: 10px 0px !important;
+	background: #068cb1;
+	margin-bottom: 5px !important;
+}
+
+.jumbotron h2, .jumbotron h3, .jumbotron h4 {
+	text-align: center;
+	color: #fff;
+	font-weight: bold;
+}
+
+nav {
+	margin-bottom: 10px;
+}
+
+.admin-page .card-img-top {
+	width: auto !important;
+	margin-top: 10px;
+}
+
+.admin-page .card {
+	margin: 0 0 15px 0;
+}
+
+.dropdown-header, .dropdown-item {
+	padding: .25rem 1rem !important;
+}
+
+table.dataTable {
+	border-collapse: collapse !important;
+}
+
+div.dataTables_wrapper div.dataTables_length {
+	float: left;
+}
+
+div.dataTables_wrapper div.dataTables_filter {
+	float: right;
+}
+
+div.dataTables_wrapper div.dataTables_info {
+	float: left;
+}
+
+div.dataTables_wrapper div.dataTables_paginate {
+	float: right;
+}
+
+div.dataTables_wrapper div.dataTables_length,
+div.dataTables_wrapper div.dataTables_filter,
+div.dataTables_wrapper div.dataTables_info,
+div.dataTables_wrapper div.dataTables_paginate {
+	text-align: justify !important;
+}
+
+.table-responsive > .table-bordered {
+    border: 1px solid #ddd !important;
+}
+
+hr {
+	margin-top: .5rem !important;
+	margin-bottom: .5rem !important;
+}
+
+/* Điều chỉnh */
+body {
+	font-size: .9286rem !important;
+}
+
+legend {
+	font-size: 1rem !important;
+}
+
+.form-control {
+	font-size: .9286rem !important;
+}
+
+.btn {
+	font-size: .9286rem !important;
+}
+
+.dropdown-menu {
+	font-size: .9286rem !important;
+}
+
+.input-group-addon {
+	font-size: .9286rem !important;
+}
+
+.popover-header {
+	font-size: .9286rem !important;
+}
+
+.container {
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+.jumbotron {
+	padding: 3rem 1rem;
+	margin-bottom: 0rem;
+}
+
+.table > tbody > tr > td {
+	vertical-align: middle;
+}
+
+.cke_chrome {
+	border: 1px solid rgba(0,0,0,.15) !important;
+}
+
+footer {
+	background: #068cb1;
+	padding: 15px 0px;
+	margin-top: 10px;
+}
+
+footer p {
+	color: #fff;
+	text-align: center;
+	padding: 0px;
+	margin: 4px 0px;
+	font-weight: bold;
+}
+
+footer a {
+	text-decoration: none;
+}
+
+footer a:hover {
+	text-decoration: none;
+	color: #fff;
+	opacity: 0.6;
+}

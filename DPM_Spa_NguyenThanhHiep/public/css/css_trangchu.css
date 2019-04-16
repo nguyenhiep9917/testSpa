@@ -1,0 +1,40 @@
+
+#menudoc{
+	border-radius: 3px;
+}
+#menudoc ul {
+	background-color: #ebfac8;
+	width: 292px;
+	padding: 0;
+	list-style-type: none;
+}
+#menudoc ul li {
+	width: auto;
+	height: 39px;
+	line-height: 39px;
+	border-bottom: 1px solid #e8e8e8;
+	border-radius: 5px;
+	padding: 0 1em;
+	position: relative;
+}
+#menudoc ul li a {
+	text-decoration: none;
+	color: #333;
+	font-weight: bold;
+	display: block;
+
+}
+#menudoc ul li:hover {
+	background-color: #CDE2CD;
+	transition: all 0.25s;
+}
+#menudoc .sub-menus{
+	position: absolute;
+	left: 120px;
+	top: 0;
+	display: none;
+}
+#menudoc ul li:hover .sub-menus{
+	display: block;
+
+} 

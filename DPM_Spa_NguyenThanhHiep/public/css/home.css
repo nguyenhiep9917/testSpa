@@ -1,0 +1,136 @@
+
+
+.item-merchandise{
+        height: 255px;
+        border: solid 2px #e9edf1;
+        border-radius: 10px;
+        background-color: #f5f8f7;
+    }
+    .dmnganhhang{
+        height: 280px;
+        border: solid 2px #e9edf1;
+        border-radius: 10px;
+        background-color: #f5f8f7;
+    }
+    #nganhhang{
+        height: 200px;
+    }
+    .addcart{
+        
+        
+        margin-bottom: 20px;
+
+    }
+    .cartss{
+        text-align: center;
+        height: 28px;
+        line-height: 28px;
+        width: 130px;
+        border-radius: 6px;
+        margin-left: 60px;
+        background-color: #90e1f1;
+    }
+    .nam_product{
+
+        height: 60px;
+        text-align: center;
+    }
+    .price_product{
+        text-align: center;
+        margin-top: -35px;
+    }
+    
+
+    .box-header ul{
+    list-style-type: none;
+    background-color: #f9f0ac;
+    text-align: center;
+    box-shadow: #f9f0ac 2px 2px;
+}
+.box-header ul li{
+    background-color: #c6ffea;
+    display: inline-table;
+    height: 20px;
+    width: 125px;
+    line-height: 20px;
+    font-size: 18px;
+    border-radius: 18px;
+    margin: 10px;
+    margin-bottom: -4px;
+
+}
+
+.box-header ul li a{
+    text-decoration: none;
+}
+
+.check_left{
+    float: left;
+}
+.check_left_title{
+    float: left;
+    width: 300px;
+}
+.check_ringt{
+    float: right;
+}
+
+
+.card-body{
+    margin-top: 20px;
+    background-color: #efeff7;
+}
+.card{
+    background-color: blue;
+}
+
+.box-header-content-top ul{
+    list-style-type: none;
+    background-color: #f90;
+    text-align: center;
+    box-shadow: #f5a01f 2px 2px;
+    height: 50px;
+}
+.box-header-content-top ul li{
+    background-color: #efeff7;
+    display: inline-table;
+    height: 35px;
+    width: 180px;
+    line-height: 35px;
+    font-size: 18px;
+    border-radius: 18px;
+    margin: 10px;
+
+}
+.box-header-content-top ul li a{
+    text-decoration: none;
+}
+/*.box-header-content-top ul li a:hover {
+    background-color: red;
+}*/
+.all-btn{
+    float: right;
+    font-size: 12px;
+}
+.title{
+    background-color: #eafb9b;
+    height: 50px;
+    line-height: 50px;
+    font-size: 28px;
+    font-weight: bold;
+}
+.box-item{
+    background-color: #efeff7;
+}
+.cssss{
+    margin: 18px 23px;
+    border: 2px solid #3c3939;
+    border-radius: 5px;
+}
+.nam_spa{
+    font-size: 14px;
+    text-align: center;
+}
+.item-merchandise img {
+    margin: 10px 1px;
+}
